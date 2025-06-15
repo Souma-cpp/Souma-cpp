@@ -1,4 +1,7 @@
-[![MasterHeader](https://images.unsplash.com/photo-1592561199818-6b69d3d1d6e2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.1.0)](https://github.com/souma-cpp)
+<p align="center">
+  <img src="https://imgs.search.brave.com/3RhJ4fJZbzyTmQ4x5EpMFKTEzDIBB-ULuWtQOu4HVw0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzExMTIyMjU5L3Iv/aWwvOGMxYTZhLzEy/Njc1MTIwMjQvaWxf/NjAweDYwMC4xMjY3/NTEyMDI0X25uMmou/anBn" alt="MasterHeader" width="100%" height="550px" style="object-fit:cover;" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Soumaditya Dey</h1>
