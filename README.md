@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souma-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="souma-cpp" /> </p>
 
-- 🔭 I’m currently working on **buildIT**
+- 🔭 I’m currently working on a project called **buildIT** , the development is still going on 
 
 - 🌱 I’m currently learning **Machine Learning**
 
