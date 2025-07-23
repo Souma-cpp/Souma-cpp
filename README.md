@@ -8,6 +8,7 @@
 <h3 align="center">A passionate developer and problem solver from India :)</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0e8aa86ef73025cdc8d82fbb6bda0fa540241cb46680a81c538c281cb1793f07/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f31786b4a474734472d63577138625a37312d5f64565779693871654b34764f394f7366585071774e6c59452f72733a6669743a3836303a303a303a302f673a63652f6148523063484d364c7939304e43356d2f64474e6b626935755a585176616e426e2f4c7a45784c7a41334c7a45324c7a517a2f4c7a4d324d463947587a45784d4463782f4e6a517a4e6a4a664e474a6d5a316c702f4d45464a546a63355358464c5a316c562f61574a7155314656556d5642533146682f596d6f75616e426e")
 
+![souma-cpp's Stats](https://github-readme-stats.vercel.app/api?username=souma-cpp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souma-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="souma-cpp" /> </p>
 
